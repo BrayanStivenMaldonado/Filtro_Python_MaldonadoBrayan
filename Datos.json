@@ -1,0 +1,53 @@
+[
+    {
+        "Tipo": "Usuarios",
+        "Usuarios": [
+            {
+                "Nombre": "Brayan Stiven Maldonado Ortega",
+                "Direccion": "cll 1c 5b - 45",
+                "InfoContacto": "3103903374",
+                "Categoria": "Cliente Nuevo",
+                "ServiciosUsados": []
+            },
+            {
+                "Nombre": "Mildred Ortega Ropero",
+                "Direccion": "cll 1c 5b - 33",
+                "InfoContacto": "3205776949",
+                "Categoria": "Cliente Nuevo",
+                "ServiciosUsados": []
+            }
+        ]
+    },
+    {
+        "Tipo": "Servicios",
+        "Servicios": [
+            {
+                "Servicio": [
+                    {
+                        "Nombre": "Fibra optica",
+                        "Descripcion": "Servicio de Fibra optica",
+                        "Precio": 80000
+                    }
+                ]
+            },
+            {
+                "Servicio": [
+                    {
+                        "Nombre": "Planes pospago",
+                        "Descripcion": "Servicio de planes pospago",
+                        "Precio": 100000
+                    }
+                ]
+            },
+            {
+                "Servicio": [
+                    {
+                        "Nombre": "Telefono Fijo",
+                        "Descripcion": "Servicio de telefono fijo",
+                        "Precio": 78000
+                    }
+                ]
+            }
+        ]
+    }
+]
